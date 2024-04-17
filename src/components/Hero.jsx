@@ -12,7 +12,7 @@ const Hero = () => {
           onClick={() => window.open("https://github.com/SidakVats")}
           className="black_btn"
         >
-          Github
+          Github Link
         </button>
       </nav>
 
