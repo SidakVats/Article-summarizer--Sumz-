@@ -1,0 +1,29 @@
+    What is Sumz?
+        Sumz is an article summarization helper designed to condense lengthy articles into concise summaries, saving you time and effort in digesting information.
+
+    How does Sumz work?
+        Sumz uses advanced algorithms to analyze and extract key information from articles, generating summaries that capture the main points and essential details.
+
+    What types of articles can Sumz summarize?
+        Sumz can summarize articles on a wide range of topics, from news and technology to science and entertainment. Simply paste the article link or text to get started!
+
+    How to use Sumz?
+        To use Sumz, you can visit our website and  provide the link to the article you want summarized. 
+
+    Can I customize the summary length and focus areas?
+        No, you can't customize the length of the summary and specify which sections or topics you want Sumz to focus on summarizing.
+
+    Is Sumz summary AI-generated or human-reviewed?
+        Sumz generates summaries using AI algorithms, ensuring fast and efficient summarization while maintaining accuracy and relevance.
+
+    What formats are available for receiving summaries?
+        Sumz provides summaries in text format, which you can easily read for your needs. We aim to keep the user experience simple and straightforward.
+
+    Is there a limit to the number of articles I can summarize with Sumz?
+        There is no specific limit on the number of articles you can summarize with Sumz. But will only show last five articles which were summerized. Feel free to use it as often as you need to summarize articles efficiently.
+
+    Are there additional features or tools available on Sumz?
+        At Sumz, our focus is on providing high-quality article summaries. We continually work on improving our summarization algorithms to deliver accurate and relevant summaries.
+
+    Where can I get help or support if I have questions about using Sumz?
+        If you have any questions or need assistance while using Sumz, you can reach out to me through the github or mail me to sidakvats6499@gmail.com.
