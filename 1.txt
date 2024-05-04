@@ -1,6 +1,11 @@
     What is Sumz?
         Sumz is an article summarization helper designed to condense lengthy articles into concise summaries, saving you time and effort in digesting information.
 
+   Who made sumz and sumz ai chatbot?
+        Sumz is made by sidak vats.
+        his email is: sidakvats6499@gmail.com
+        his linkedin : https://bit.ly/linked-IN
+
     How does Sumz work?
         Sumz uses advanced algorithms to analyze and extract key information from articles, generating summaries that capture the main points and essential details.
 
